@@ -1,0 +1,3 @@
+﻿  Fib.cpp
+D:\study\optim\Fibbonachi\Project1\Fib.cpp(18,18): warning C4101: f1: неиспользованная локальная переменная
+  Project1.vcxproj -> D:\study\optim\Fibbonachi\Project1\x64\Debug\Project1.exe

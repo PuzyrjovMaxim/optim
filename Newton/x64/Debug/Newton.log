@@ -1,0 +1,3 @@
+﻿  newton.cpp
+D:\study\optim\Newton\newton.cpp(67,15): warning C4101: t: неиспользованная локальная переменная
+  Newton.vcxproj -> D:\study\optim\Newton\x64\Debug\Newton.exe
